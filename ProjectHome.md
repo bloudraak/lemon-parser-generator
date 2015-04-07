@@ -1,0 +1,3 @@
+Lemon is a LALR parser generator for C, C++ and D languages. It does the same job as GNU bison and yacc; however, Lemon is not another bison or yacc clone. It uses a different grammar syntax which is designed to reduce the number of coding errors. Lemon also uses a parsing engine that is both reentrant and thread-safe.
+
+Original version of Lemon was written by Dr. Richard Hipp and resides in the public domain. It is maintained as part of the SQLite project. This version was forked from sqlite-3.5.6 and put under GPL license.
